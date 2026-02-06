@@ -45,21 +45,21 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostapha45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/Mostapha45">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mostapha45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostapha45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Mostapha45">
+    <img src="https://streak-stats.demolab.com/?user=Mostapha45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostapha45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostapha45&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/Mostapha45">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mostapha45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
