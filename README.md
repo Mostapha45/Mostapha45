@@ -4,9 +4,10 @@
 
 ### *Developer by day, debugger by night, coffee consumer 24/7* ☕
 
+</div>
+
 ```javascript
 const mostapha = {
-    pronouns: "he/him",
     code: ["JavaScript", "Python", "Java", "C++", "HTML/CSS"],
     askMeAbout: ["web dev", "tech", "algorithms", "coffee", "memes"],
     technologies: {
@@ -19,8 +20,6 @@ const mostapha = {
     funFact: "I've pushed to production on a Friday... and lived to tell the tale 😎"
 };
 ```
-
-</div>
 
 ---
 
