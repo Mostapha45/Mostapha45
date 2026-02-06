@@ -68,7 +68,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mostapha45&icon=6&color=6)](https://visitcount.itsvg.in)
 
-**"Code is like humor. When you have to explain it, it's bad."**
+**"Nine women can't make a baby in one month."**
 
 </div>
 
