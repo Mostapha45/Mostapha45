@@ -66,11 +66,11 @@ const mostapha = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostapha45&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostapha45&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostapha45&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mostapha45&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostapha45&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostapha45&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -80,7 +80,7 @@ const mostapha = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mostapha45&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mostapha45&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
@@ -90,7 +90,7 @@ const mostapha = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mostapha45&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mostapha45&theme=react-dark&hide_border=true)
 
 </div>
 
@@ -123,8 +123,8 @@ const mostapha = {
 
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=mostapha45&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Mostapha45&color=blueviolet&style=flat-square&label=Profile+Views)
 
-### ⭐ From [mostapha45](https://github.com/mostapha45) with 💙 and lots of ☕
+### ⭐ From [Mostapha45](https://github.com/Mostapha45) with 💙 and lots of ☕
 
 </div>
