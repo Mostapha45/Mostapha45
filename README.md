@@ -6,18 +6,18 @@
 
 </div>
 
-```javascript
+```js
 const mostapha = {
-    code: ["JavaScript", "Python", "Java", "C++", "HTML/CSS"],
-    askMeAbout: ["web dev", "tech", "algorithms", "coffee", "memes"],
-    technologies: {
-        frontEnd: ["React", "Vue", "Angular"],
-        backEnd: ["Node.js", "Express", "Django"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Git", "Docker", "VS Code", "Linux"]
-    },
-    currentFocus: "Building cool stuff & breaking things (then fixing them)",
-    funFact: "I've pushed to production on a Friday... and lived to tell the tale 😎"
+  code: ["JavaScript", "Python", "Java", "C++"],
+  askMeAbout: ["web dev", "tech", "algorithms"],
+  technologies: {
+    frontEnd: ["React", "Vue", "Angular"],
+    backEnd: ["Node.js", "Express", "Django"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    tools: ["Git", "Docker", "VS Code", "Linux"]
+  },
+  currentFocus: "Building cool stuff",
+  funFact: "I push to prod on Fridays 😎"
 };
 ```
 
